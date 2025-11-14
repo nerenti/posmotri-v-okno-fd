@@ -1,1 +1,1 @@
-https://github.com/nerenti/posmotri-v-okno-fd#
+https://github.com/nerenti/posmotri-v-okno-fd
