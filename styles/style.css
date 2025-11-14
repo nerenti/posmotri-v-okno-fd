@@ -225,7 +225,7 @@ ol {
   cursor: pointer;
 }
 
-.search-form__label-text:hover {
+.search-form__label:hover .search-form__label-text {
   cursor: pointer;
   text-underline-offset: 2px;
   text-decoration: underline;
